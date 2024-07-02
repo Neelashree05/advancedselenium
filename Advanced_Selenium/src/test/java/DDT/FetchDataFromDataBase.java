@@ -31,6 +31,6 @@ public class FetchDataFromDataBase {
 		}
 		//step5:close database
 		con.close();
-//push
+//push 2
 	}
 }
