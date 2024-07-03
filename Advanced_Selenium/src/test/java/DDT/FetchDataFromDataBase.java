@@ -10,6 +10,8 @@ import com.mysql.cj.jdbc.Driver;
 public class FetchDataFromDataBase {
 
 	public static void main(String[] args) throws Throwable {
+		
+		//push1
 		//step1:register/load the mysql database
 		//every database has its own driver
 		Driver driverRef = new Driver();
